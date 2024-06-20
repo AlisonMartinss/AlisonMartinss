@@ -5,7 +5,7 @@
 
 #### Desenvolvo aplicações Back-end (API-REST, Aplicações MVC), e também Front-end. Exemplos desses trabalhos vcs podem achar nos meus repositorios.
 
-### Tecnologias mais usadas 🛠️
+### Tecnologias mais usadas 🛠️ e Linkedin
 
 - ![My Skills](https://skillicons.dev/icons?i=spring,hibernate,mysql,postgres) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alisonsoaresm/)
 
